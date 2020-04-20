@@ -1,0 +1,1 @@
+BUILD_SUBMITTER -x -m baidu/FaceDetect/facedetect -c "cd baidu/FaceDetect/facedetect && mkdir output &&cp BCLOUD ./output/" -u ./
